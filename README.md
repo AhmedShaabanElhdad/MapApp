@@ -1,11 +1,13 @@
-# suspend coroutine callback in Location Callback + String Provider + interceptor to make retrofit read from file as cache 
+# coroutine callback in Location Callback + String Provider + interceptor to make retrofit read from file as cache 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*WKCrQxvpb0_fAr3kSk6Jxw.jpeg" width="500">
+
+## coroutine callback
 This is a sample app that demonstrate how to use coroutine Callback in Android application in clean architecture.
 
-# StringProvider Mechanism
+## StringProvider Mechanism
 This sample app also  demonstrate how to use string provider to make domain use string resource but the value from presentation
 
-# Interceptor to make retrofit read from file 
+## Interceptor to make retrofit read from file 
 This app also  demonstrate how to read fro file using retrofit using interceptor
 
 Because it is an architectural project, UI has been kept simple.
