@@ -1,4 +1,5 @@
 # suspend coroutine callback in Location Callback
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WKCrQxvpb0_fAr3kSk6Jxw.jpeg" width="500">
 This is a sample app that demonstrate how to use coroutine Callback in Android application in clean architecture.
 
 # StringProvider Mechanism
