@@ -1,4 +1,4 @@
-# suspend coroutine callback in Location Callback. /nString Provider.
+# suspend coroutine callback in Location Callback. \nString Provider.
 # interceptor to make retrofit read from file as cache.
 # MVI pattern
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*WKCrQxvpb0_fAr3kSk6Jxw.jpeg" width="500">
