@@ -1,14 +1,16 @@
-# suspend coroutine callback in Location Callback + String Provider + interceptor to make retrofit read from file as cache + MVI pattern
+# suspend coroutine callback in Location Callback + Resource Provider + interceptor to make retrofit read from file as cache + MVI pattern
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*WKCrQxvpb0_fAr3kSk6Jxw.jpeg" width="500">
 
 
 ## coroutine callback
 This is a sample app that demonstrate how to use coroutine Callback in Android application in clean architecture.
 
+## Forground Service
+- LocationService to update user location and connect it with notification
 
 
-## StringProvider Mechanism
-This sample app also  demonstrate how to use string provider to make domain use string resource but the value from presentation
+## Resource Provider Mechanism
+This sample app also  demonstrate how to use Resource provider to make domain read from Raw resource but the value from presentation
 
 
 
